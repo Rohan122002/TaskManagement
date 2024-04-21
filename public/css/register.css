@@ -1,0 +1,556 @@
+.container-fluid {
+
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+}
+
+body {
+    height: 100dvh;
+}
+
+.best {
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+}
+
+.best_1 {
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+
+
+
+/* signup */
+
+.form-check-label {
+    /* margin-left: 2%; */
+    color: var(--Secondary-Text, #858585);
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.col-8 {
+    width: 26.73%;
+}
+
+.signup {
+    padding: 1.2rem;
+}
+
+.form-control {
+    display: flex;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 0.625rem !important;
+    background-color: #F5F5F5 !important;
+    border: 0 !important;
+    border: none;
+    padding-left: 0.94rem;
+    padding-right: 0.94rem;
+    color: #000;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+.name_div {
+    margin-top: 0px !important;
+    gap: 1.25rem;
+}
+
+.sign_btn {
+    padding-top: 0.60rem;
+    padding-bottom: 0.60rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 0.625rem;
+    background: var(--Primary, #519BD0);
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 1.2rem;
+
+}
+
+.sign_btn:hover {
+    background-color: var(--Primary, #4c92c4);
+}
+
+.sign_btn:active {
+    background-color: var(--Primary, #488bbb);
+
+}
+
+.form_main {
+    justify-content: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    /* width: 45% !important; */
+}
+
+.dash_back {
+    background: var(--Primary, #519BD0);
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+.dash {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 4.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sign_back {
+    background: var(--Background, #F5F5F5);
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+.name {
+    color: #000;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.check-css{
+    accent-color:var(--Primary, #519BD0);
+    width: 16px;
+    height: 16px;
+    /* padding-top: 15%; */
+}
+.checkbox_div{
+    padding-top: 2.5px;
+    padding-left: 5px;
+}
+.check_div {
+    margin-top: 1.5rem;
+
+
+}
+
+.name_div label,
+.email_div label,
+.pass_div label,
+.confirm_div label {
+    margin-bottom: 0.6rem;
+
+}
+
+
+.create_div {
+    margin-top: 2rem;
+}
+
+.create {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0% !important;
+}
+
+.create_dash {
+    color: #000;
+    font-family: Lato;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.creat_dash_div {
+    margin-top: 0.3rem;
+}
+.google-ph{
+    padding-left: 1.5rem;
+}
+.sign_google {
+    color: var(--Secondary-Text, #858585);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 0.85rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2px;
+    padding-right: 1rem;
+}
+
+.sign_apple {
+    color: var(--Secondary-Text, #858585);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 1rem;
+    padding-top: 2px;
+}
+
+.google_1 {
+    padding-left: 0.5rem;
+    padding-top: 5px;
+}
+
+.Already_acc {
+    color: var(--Secondary-Text, #858585);
+    text-align: center;
+    font-family: Lato;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.form_main {
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+    /* width: 47%; */
+}
+
+.sign_up_image_div {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 1.2dvw !important;
+    gap: 1.5rem;
+}
+
+.signup_div {
+
+    display: block;
+    margin-top: 1.2rem !important;
+}
+
+.card {
+
+    border-radius: 15px !important;
+    border: 0 !important;
+
+}
+
+.google_div_main {
+    margin-left: 0px;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.sign_google,
+.sign_apple {
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+.google_1,
+.apple_1 {
+    padding-bottom: 0.4rem;
+}
+
+.Already_acc_div {
+    margin-top: 4.58%;
+}
+
+.bottom {
+    padding-bottom: 1.5rem;
+}
+
+.main {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.form-group {
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+.form-row {
+    margin-top: 1rem;
+}
+
+/* show hide password */
+.password-toggle-icon_1 {
+    position: absolute;
+    top: 48%;
+    right: 3%;
+    transform: translateX(-100%);
+    cursor: pointer;
+}
+
+.password-toggle-icon_1 i {
+    color: #999;
+    font-size: 1.2rem;
+}
+
+.password-toggle-icon_1.active i {
+    color: #333;
+}
+
+/*     */
+.password-toggle-icon_2 {
+    position: absolute;
+    top: 65.5%;
+    right: 3%;
+    transform: translateX(-100%);
+    cursor: pointer;
+}
+
+.password-toggle-icon_2 i {
+    color: #999;
+    font-size: 1.2rem;
+}
+
+.password-toggle-icon_2.active i {
+    color: #333;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.mobile {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 200px;
+    z-index: 999;
+    background-color: #ffffff6a;
+    backdrop-filter: blur(10px);
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.sidebar p {
+    width: 100%;
+}
+
+.form-check-input,
+.checkbox {
+    border: var(--Primary, #519BD0);
+    background-color: var(--Primary, #519BD0);
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .dash_back {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        width: 100%;
+        height: 15%;
+        top: 0;
+        bottom: auto;
+
+    }
+
+    .dash {
+        font-size: 2.5rem;
+    }
+
+    .form_main {
+        width: 100%;
+        height: 100%;
+        margin-top: 15px;
+
+
+
+    }
+    .sign_up_image_div{
+        width: 240px !important;
+
+
+    }
+    .signup_div,
+    .sign_up_image_div {
+        font-size: 0.5rem;
+        height: auto;
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .mobile {
+        padding-left: 25px !important;
+        padding-right: 25px !important;
+    }
+
+    .sign_google {
+        text-align: left;
+        padding-left: px;
+        padding-top: 2px;
+    }
+
+    .sign_apple {
+        text-align: left;
+        padding-left: 16px;
+
+    }
+
+    .google_div {
+        /* margin-top:12px; */
+        display: block;
+        width: 100px !important;
+        /* margin-left: 20px; */
+
+    }
+
+    .apple_div {
+
+        /* margin-top: 12px; */
+        text-align: left;
+        width: 100px !important;
+        /* margin-left: 20px; */
+
+    }
+
+    .create_div {
+        font-size: 1.2rem;
+    }
+
+    .create_dash {
+        font-size: 0.8rem;
+    }
+    .google_1{
+        padding-left: 0.2rem;
+    }
+    .google-ph{
+        padding-left: 15px !important;
+        /* margin-top: 0.5px !important; */
+    }
+    .checkbox_div{
+        width: 15px !important;
+    }
+    .check_div{
+        display: flex !important;
+    }
+    .terms_div{
+        padding-left: 15px;
+    }
+
+}
+
+@media screen and (max-width:900px) and (min-width:600px) {
+    .dash_back {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        width: 100%;
+        /* height: 15%; */
+        top: 0;
+        bottom: auto;
+        font-size: 2.2rem;
+    }
+
+    .dash {
+        font-size: 2.8rem;
+    }
+
+    .form_main {
+        width: 100%;
+        height: 100%;
+        margin-top: 15px;
+
+    }
+
+    .signup_div,
+    .sign_up_image_div {
+        font-size: 0.7rem;
+        height: 100%;
+
+
+    }
+
+    .create_div {
+        font-size: 1.8rem;
+    }
+
+    .create_dash {
+        font-size: 1.2rem;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    span.sign_google {
+        display: none;
+    }
+
+    .sign_google_ph {
+        font-size: 0.8rem !important;
+        /* padding-left: 0.1rem; */
+
+        color: var(--Secondary-Text, #858585);
+        text-align: left;
+        font-family: Montserrat;
+
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+    .google-ph{
+        padding-top: 3px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    span.sign_google_ph {
+        display: none;
+        font-size: 1rem;
+    }
+
+    .sign_google_ph {
+        font-size: 2rem !important;
+        width: 300px;
+    }
+}
